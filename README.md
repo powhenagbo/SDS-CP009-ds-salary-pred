@@ -12,13 +12,16 @@ The primary objective of this project is to build and deploy a machine learning 
 ## Project Phases & Timelines
 **Data Cleaning & Analysis** (Week 1)
 - Handling missing values, formatting data types, fixing data inconsistencies.
-- EDA, distribution analysis of features, correlation of features to target variable
+- EDA, distribution analysis of features, correlation of features to target variable.
+
 **Data Preprocessing & Feature Engineering** (Week 2)
 - Engineering new features, handling outliers
 - Preprocess data to be used for model training
+
 **Model Selection & Hyperparameter** Tuning (Week 3)
 - Model training, model evaluation, model selection
 - Hyperparameter tuning of selected model, improving accuracy
+
 **Web App Deployment** (Week 4)
 - Building a basic streamlit app to make use of the model
 - Deploy app to streamlit cloud
